@@ -1,6 +1,7 @@
 # selenium-test
 
 Language used: Python 3.4
+
 Tested on: Firefox 61.0 (64-bit), Windows 10
 
 # main1.py
